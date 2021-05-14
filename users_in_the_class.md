@@ -1,6 +1,6 @@
  # Users
  
- - Sergio
+ - Sergio Aranda Egusquiza
  - Jesus
  - Joan
  - Domingo

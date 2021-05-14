@@ -1,2 +1,3 @@
-# master_industria_2021
-optional description goes here...
+# Master Industria 2021
+
+visitar users_int_the_class.md for mor info

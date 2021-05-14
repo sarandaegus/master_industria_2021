@@ -1,10 +1,12 @@
  # Users
  
- - sergio
- - jesus
- - joan
+ - Sergio
+ - Jesus
+ - Joan
+ - Domingo
+ - Beatriz
 
 -----
 # Professor
 
- - bonastreyair
+ - Yair
